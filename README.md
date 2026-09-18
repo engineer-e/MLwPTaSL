@@ -15,7 +15,7 @@ Machine Learning with PyTorch and Scikit-Learn
 |---|--- |--- |
 | 1 | [Giving Computers the Ability to Learn from Data](#chapter-1-giving-computers-the-ability-to-learn-from-data)|  1 | 
 | 2 | [Training Simple Machine Learning Algorithm for Classification](#chapter-2-training-simple-machine-learning-algorithm-for-classification) |  19 |
-| 3 | A Tour of Machine Learning Classifiers Using Scikit-Learn |  53 |
+| 3 | [A Tour of Machine Learning Classifiers Using Scikit-Learn](#chapter-3-a-tour-of-machine-learning-classifiers-using-scikit-learn) |  53 |
 | 4 | Building Good Training Datasets - Data Preprocessing   | 105 |
 | 5 | Compressing Data via Dimensionality Reduction | 139 |
 | 6 | Learning Best Practices for Model Evaluation and Hyperparameter Tuning  |171 |
@@ -138,22 +138,22 @@ Machine Learning with PyTorch and Scikit-Learn
 
 ---
 
-# A Tour of Machine Learning Classifiers Using Scikit-Learn
+# Chapter 3: A Tour of Machine Learning Classifiers Using Scikit-Learn
 
 | [ < ](#table-of-content) | T | N |
 |---|--- |--- |
 | 1 | Choosing a classification algorithm  | 53 |
 | 2 | First steps with Scikit-Learn - training a perceptron | 54 |
-| 3 | Modeling class probabilities via logistic regression | 59 |
-| 4 | Maximum margin classification with Support vector machine | 76| 
-| 5 | Solving nonlinear problem using a Kernel SVM | 80 |
-| 6 | Decision Tree Learning | 86 | 
+| 3 | [Modeling class probabilities via logistic regression](#modeling-class-probabilities-via-logistic-regression) | 59 |
+| 4 | [Maximum margin classification with Support vector machine](#maximum-margin-classification-with-support-vector-machine) | 76| 
+| 5 | [Solving nonlinear problem using a Kernel SVM](#solving-nonlinear-problem-using-a-kernel-svm) | 80 |
+| 6 | [Decision Tree Learning](#decision-tree-learning) | 86 | 
 | 7 | K-nearest neighbors - a lazy learning algorithm | 98 | 
 | 8 | Summary | 102 | 
 
 ## Modeling class probabilities via logistic regression
 
-| [ < ](#a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
+| [ < ](#chapter-3-a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
 | --- | --- | --- |
 | 1 | Logistic regression and conditional probabilities | 60 |
 | 2 | Learning the model weights via the logistic loss function | 63 |
@@ -164,7 +164,7 @@ Machine Learning with PyTorch and Scikit-Learn
 
 ## Maximum margin classification with Support vector machine
 
-| [ < ](#a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
+| [ < ](#chapter-3-a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
 | --- | --- |--- |
 | 1 | Maximum margin intuition | 77 |
 | 2 | Dealing with a nonlinearly separable case using slack variables | 77 |
@@ -173,7 +173,7 @@ Machine Learning with PyTorch and Scikit-Learn
 
 ## Solving nonlinear problem using a Kernel SVM
 
-| [ < ](#a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
+| [ < ](#chapter-3-a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
 | --- | --- | --- |
 | 1 | Kernal methods for linearly inseparable data | 80 |
 | 2 | Using the kernel trick to find separating hyperplanes in a high dimensional spaces | 82 |
@@ -181,7 +181,7 @@ Machine Learning with PyTorch and Scikit-Learn
 
 ## Decision Tree Learning
 
-| [ < ](#a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
+| [ < ](#chapter-3-a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
 | --- | --- |--- |
 | 1 | Maximizing IG - getting the most bang for your buck | 88 |
 | 2 | Building a decision tree | 92 |
