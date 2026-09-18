@@ -46,9 +46,9 @@ Machine Learning with PyTorch and Scikit-Learn
 |---|--- |--- |
 | 1 | Building intelligent machines to transform data into knowledge  | 1 | 
 | 2 | [The three different types of machine learning](#the-three-different-types-of-machine-learning) | 2 |
-| 3 | Introduction to the basic terminology and notations  | 9 |
-| 4 | A roadmap for building machine learning systems | 12 |
-| 5 | Using Python for maching learning  | 14 |
+| 3 | [Introduction to the basic terminology and notations](#introduction-to-the-basic-terminology-and-notations)  | 9 |
+| 4 | [A roadmap for building machine learning systems](#a-roadmap-for-building-machine-learning-systems) | 12 |
+| 5 | [Using Python for maching learning](#using-python-for-maching-learning)  | 14 |
 | 6 | Summary  | 17|
 
 ## The three different types of machine learning
@@ -68,9 +68,35 @@ Machine Learning with PyTorch and Scikit-Learn
 
 ### Discovering hidden structures with unsupervised learning
 
-
-
 | [ < ](#the-three-different-types-of-machine-learning) | T | N |
 |---|--- |--- |
 | 1 | Finding subgroups with clustering  | 8 |
 |2 | Dimensionality reduction for data compression | 8|
+
+
+## Introduction to the basic terminology and notations
+
+
+| [ < ](#chapter-1-giving-computers-the-ability-to-learn-from-data) | T | N |
+|---|--- |--- |
+| 1 | Notation and conventions used in this book | 9 |
+| 2 | Machine learning terminology | 11 |
+
+## A roadmap for building machine learning systems
+
+
+| [ < ](#chapter-1-giving-computers-the-ability-to-learn-from-data) | T | N |
+|---|--- |--- |
+| 1 | Preprocessing - getting data into shape | 13 |
+| 2 | Training and selecting a predictive model | 13 |
+| 3 | Evaluating models and predicting unseen data instances | 14 |
+
+
+## Using Python for maching learning 
+
+| [ < ](#chapter-1-giving-computers-the-ability-to-learn-from-data) | T | N |
+|---|--- |--- |
+| 1 | Installing Python and packages from the Python Package Index | 14 |
+| 2 | Using the Anaconda Python distribution and package manager | 15 |
+| 3 | Packages for scientific computing, data science, and machine learning | 16 |
+
