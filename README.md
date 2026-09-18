@@ -11,7 +11,7 @@ Machine Learning with PyTorch and Scikit-Learn
 
 
 
-| C | T |  N |
+| [$\leftarrow$](https://github.com/engineer-e) | T |  N |
 |---|--- |--- |
 | 1 | [Giving Computers the Ability to Learn from Data](#chapter-1-giving-computers-the-ability-to-learn-from-data)|  1 | 
 | 2 | Training Simple Machine Learning Algorithm for Classification |  19 |
@@ -40,9 +40,9 @@ Machine Learning with PyTorch and Scikit-Learn
 
 # Chapter 1: Giving Computers the Ability to Learn from Data
 
-[prev](#table-of-content)
 
-| C | T | N |
+
+| [$\leftarrow$](#table-of-content) | T | N |
 |---|--- |--- |
 | 1 | Building intelligent machines to transform data into knowledge  | 1 | 
 | 2 | [The three different types of machine learning](#the-three-different-types-of-machine-learning) | 2 |
@@ -53,10 +53,7 @@ Machine Learning with PyTorch and Scikit-Learn
 
 ## The three different types of machine learning
 
-[prev](#chapter-1-giving-computers-the-ability-to-learn-from-data)
-
-
-| C | T | N |
+| [$\leftarrow$](#chapter-1-giving-computers-the-ability-to-learn-from-data) | T | N |
 |---|--- |--- |
 | 1 | [Making predictions about the future with supervised learning](#making-predictions-about-the-future-with-supervised-learning)  | 3|
 | 2 | Solving interactive problems with reinforcement learning | 6 |
@@ -64,19 +61,16 @@ Machine Learning with PyTorch and Scikit-Learn
 
 ### Making predictions about the future with supervised learning
 
-[prev](#the-three-different-types-of-machine-learning)
-
-| C | T | N |
+| [$\leftarrow$](#the-three-different-types-of-machine-learning) | T | N |
 |---|--- |--- |
 | 1 | Classification for predicting class lebels | 4 |
 | 2 | Regression for predicting continuous outcomes | 5 |
 
 ### Discovering hidden structures with unsupervised learning
 
-[prev](#the-three-different-types-of-machine-learning)
 
 
-| C | T | N |
+| [$\leftarrow$](#the-three-different-types-of-machine-learning) | T | N |
 |---|--- |--- |
 | 1 | Finding subgroups with clustering  | 8 |
 |2 | Dimensionality reduction for data compression | 8|
