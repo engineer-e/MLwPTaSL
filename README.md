@@ -14,7 +14,7 @@ Machine Learning with PyTorch and Scikit-Learn
 | [ < ](https://github.com/engineer-e) | T |  N |
 |---|--- |--- |
 | 1 | [Giving Computers the Ability to Learn from Data](#chapter-1-giving-computers-the-ability-to-learn-from-data)|  1 | 
-| 2 | Training Simple Machine Learning Algorithm for Classification |  19 |
+| 2 | [Training Simple Machine Learning Algorithm for Classification](#chapter-2-training-simple-machine-learning-algorithm-for-classification) |  19 |
 | 3 | A Tour of Machine Learning Classifiers Using Scikit-Learn |  53 |
 | 4 | Building Good Training Datasets - Data Preprocessing   | 105 |
 | 5 | Compressing Data via Dimensionality Reduction | 139 |
@@ -100,3 +100,40 @@ Machine Learning with PyTorch and Scikit-Learn
 | 2 | Using the Anaconda Python distribution and package manager | 15 |
 | 3 | Packages for scientific computing, data science, and machine learning | 16 |
 
+---
+
+# Chapter 2: Training Simple Machine Learning Algorithm for Classification
+
+| [ < ](#table-of-content) | T | N |
+|---|--- |--- |
+| 1 | [Artifical neurons - a brief glimpse into the early history of machine learning](#artifical-neurons---a-brief-glimpse-into-the-early-history-of-machine-learning) | 19 |
+| 2 | [Implementing a perceptron learning algorithm in Python](#implementing-a-perceptron-learning-algorithm-in-python) | 25 |
+| 3 | [Adaptive linear neurons and the convergence of learning](#adaptive-linear-neurons-and-the-convergence-of-learning) | 35 |
+| 4 | Summary | 51 |
+
+## Artifical neurons - a brief glimpse into the early history of machine learning
+
+| [ < ](#chapter-2-training-simple-machine-learning-algorithm-for-classification) | T | N |
+|---|--- |--- |
+| 1 | The formal definition of an artifical neuron | 20 |
+| 2 | The perceptron learning rule | 22 |
+
+
+## Implementing a perceptron learning algorithm in Python
+| [ < ](#chapter-2-training-simple-machine-learning-algorithm-for-classification) | T | N |
+|---|--- |--- |
+| 1 | An object-oriented perceptron API  | 25 |
+| 2 | Training a perceptron model on the Iris dataset | 29 |
+
+
+
+## Adaptive linear neurons and the convergence of learning
+
+| [ < ](#chapter-2-training-simple-machine-learning-algorithm-for-classification) | T | N |
+|---|--- |--- |
+| 1 | Minimizing loss functions with gradient descent | 37 | 
+| 2 | Implementing Adaline in Python | 39 | 
+| 3 | Improving gradient descent through feature scaling | 43 | 
+| 4 | Large-scale machine learning and stochastic gradient descent | 45 |
+
+---
