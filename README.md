@@ -137,3 +137,52 @@ Machine Learning with PyTorch and Scikit-Learn
 | 4 | Large-scale machine learning and stochastic gradient descent | 45 |
 
 ---
+
+# A Tour of Machine Learning Classifiers Using Scikit-Learn
+
+| [ < ](#table-of-content) | T | N |
+|---|--- |--- |
+| 1 | Choosing a classification algorithm  | 53 |
+| 2 | First steps with Scikit-Learn - training a perceptron | 54 |
+| 3 | Modeling class probabilities via logistic regression | 59 |
+| 4 | Maximum margin classification with Support vector machine | 76| 
+| 5 | Solving nonlinear problem using a Kernel SVM | 80 |
+| 6 | Decision Tree Learning | 86 | 
+| 7 | K-nearest neighbors - a lazy learning algorithm | 98 | 
+| 8 | Summary | 102 | 
+
+## Modeling class probabilities via logistic regression
+
+| [ < ](#a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
+| --- | --- | --- |
+| 1 | Logistic regression and conditional probabilities | 60 |
+| 2 | Learning the model weights via the logistic loss function | 63 |
+| 3 | Converting an Adaline implementation into an algorithm for logistic regression | 66 |
+| 4 | Training a logistic regression model with scikit-learn | 70 |
+| 5 | Tackling overfitting via regularization | |
+
+
+## Maximum margin classification with Support vector machine
+
+| [ < ](#a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
+| --- | --- |--- |
+| 1 | Maximum margin intuition | 77 |
+| 2 | Dealing with a nonlinearly separable case using slack variables | 77 |
+| 3 | Alternative implementation in Scikit-learn | 79 |
+
+
+## Solving nonlinear problem using a Kernel SVM
+
+| [ < ](#a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
+| --- | --- | --- |
+| 1 | Kernal methods for linearly inseparable data | 80 |
+| 2 | Using the kernel trick to find separating hyperplanes in a high dimensional spaces | 82 |
+
+
+## Decision Tree Learning
+
+| [ < ](#a-tour-of-machine-learning-classifiers-using-scikit-learn) | T | N |
+| --- | --- |--- |
+| 1 | Maximizing IG - getting the most bang for your buck | 88 |
+| 2 | Building a decision tree | 92 |
+| 3 | Combining multiple decisions tree via random forests | 95 |
