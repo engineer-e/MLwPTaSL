@@ -159,7 +159,7 @@ Machine Learning with PyTorch and Scikit-Learn
 | 2 | Learning the model weights via the logistic loss function | 63 |
 | 3 | Converting an Adaline implementation into an algorithm for logistic regression | 66 |
 | 4 | Training a logistic regression model with scikit-learn | 70 |
-| 5 | Tackling overfitting via regularization | |
+| 5 | Tackling overfitting via regularization | 73 |
 
 
 ## Maximum margin classification with Support vector machine
